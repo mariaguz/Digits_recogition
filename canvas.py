@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter import ttk
-
 import joblib
 from PIL import ImageGrab
 

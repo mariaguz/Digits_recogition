@@ -15,4 +15,3 @@ def image_to_np(path):
     numpy_img = asarray(img)
     numpy_img = numpy_img[:,:,0]
     return numpy_img
-

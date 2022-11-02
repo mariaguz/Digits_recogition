@@ -1,7 +1,7 @@
 from keras.datasets import mnist
-from sklearn import svm, preprocessing
+# from sklearn import svm, preprocessing
 import joblib
-import pickle
+
 
 from sklearn.neural_network import MLPClassifier
 
